@@ -9,7 +9,7 @@ To use the tool, simply run the m-file. This brings up the user interface/output
 
 ![User interface](Figure.png)
 
-a) select from a number of defauly scenarios
+a) select from a number of default scenarios
 
 b) Define the timeseries input flux at the ground surface. Left hand column is time points, right hand column is flux, with positive numbers indicating downward flow (i.e. infiltration) and negative numbers indicating evaporation.
 
